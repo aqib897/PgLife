@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/22561895/README.md)
-# 🏠 PGLife – Full Stack Website
+# 🏠 PgLife – Full Stack Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -12,7 +12,7 @@
 ---
 
 ## 📖 Project Overview
-**PGLife** is a full-stack web application designed to help students and working professionals find Paying Guest (PG) accommodations with ease.  
+**PgLife** is a full-stack web application designed to help students and working professionals find Paying Guest (PG) accommodations with ease.  
 It provides a user-friendly interface for browsing PG listings, filtering options, and viewing details about amenities, pricing, and location.
 
 ---
@@ -38,21 +38,21 @@ It provides a user-friendly interface for browsing PG listings, filtering option
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/PGLife.git
+git clone https://github.com/aqib897/PgLife.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
 ```bash
-cd PGLife
+cd PgLife
 ```
 
 ### 3️⃣ Setup Database
 - Import the SQL file in the `database/` folder into MySQL.
-- Update database credentials in `config.php`.
+- Update database credentials in `include/databaseconnect.php`.
 
 ### 4️⃣ Run the Project
 - Open with XAMPP/WAMP or any local server environment.
-- Access in browser at: `http://localhost/PGLife`
+- Access in browser at: `http://localhost/PgLife`
 
 ---
 
@@ -69,8 +69,6 @@ cd PGLife
 
 ### 👤 User Login / Signup Page
 ![Login Signup](screenshots/login.png)
-
-*(Replace the `screenshots/*.png` paths with actual images from your project folder)*
 
 ---
 
